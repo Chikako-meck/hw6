@@ -1,0 +1,11 @@
+body {
+  font-family: Verdana, Helvetica, sans-serif;
+  background-color: #DDDDDD;
+};
+
+
+input {
+  width: 130px;
+  heigth: 80px;
+  margin:5px;
+};
